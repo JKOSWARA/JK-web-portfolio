@@ -1,24 +1,21 @@
-#name
-{
-    background-color: lightblue;
-    color: black;
-    padding: 40px;
-    text-align: center;
-    border-radius: 20px;
-    width: 600px;
-    margin: auto;
+#name {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  border-radius: 20px;
+  width: 600px;
+  margin: auto;
 }
 
-.aboutme
-{
-    background-color: lightblue;
-    color: black;
-    padding: 40px;
-    text-align: center;
-    border-radius: 20px;
-    width: 600px;
-    margin: auto;
-
+.aboutme {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  border-radius: 20px;
+  width: 600px;
+  margin: auto;
 }
 
 .container {
@@ -53,41 +50,27 @@ input[type="submit"]:hover {
   background-color: #5a77d6;
 }
 
-footer
-{
-    position: fixed ;
-    bottom: 0%;
-    padding: 20px;
+footer {
+  position: fixed;
+  bottom: 0%;
+  padding: 20px;
 }
 
-.image1 
-{
-    border-radius: 30px;
-    margin-left: 380px;
-  
-   
-  
-    
-    
-
-    
-    
+.image1 {
+  border-radius: 30px;
+  margin-left: 380px;
+  margin: auto;
 }
-.card-deck
-{
- margin: auto;
- width: 700px;
-height: auto;
+.card-deck {
+  margin: auto;
+  width: 700px;
+  height: auto;
 }
 
-#contact
-{
-    margin:auto;
-    text-align: center;
-
-    
+#contact {
+  margin: auto;
+  text-align: center;
 }
-.p1
-{
-    text-align: center;
+.p1 {
+  text-align: center;
 }
